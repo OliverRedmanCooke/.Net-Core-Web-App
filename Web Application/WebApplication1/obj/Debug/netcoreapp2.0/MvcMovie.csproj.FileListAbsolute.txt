@@ -1,0 +1,4 @@
+C:\project\.Net-Core-Web-App\Web Application\WebApplication1\obj\Debug\netcoreapp2.0\MvcMovie.csprojResolveAssemblyReference.cache
+C:\project\.Net-Core-Web-App\Web Application\WebApplication1\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\project\.Net-Core-Web-App\Web Application\WebApplication1\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+C:\project\.Net-Core-Web-App\Web Application\WebApplication1\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
